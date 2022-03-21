@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/vfleaking/uoj/blob/master/uoj/1/pictures/UOJ.png?raw=true"></p>
 
-本仓库存放了 UOJ 官网（ https://uoj.ac ）上的几道题目数据，供大家学习交流之用。
+本仓库存放了 UOJ 官网（ https://uoj.ac ）上的几道题目数据，供大家学习参考。
 
 1. 一个典型的传统题：[\#1. A + B Problem](https://uoj.ac/problem/1)
 2. 一个典型的非传统题：[\#8. Quine](https://uoj.ac/problem/8)
