@@ -1,6 +1,6 @@
 # Universal Online Judge 样题
 
-<p align="center"><img src="https://github.com/vfleaking/uoj/blob/master/uoj/1/pictures/UOJ.png?raw=true"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/vfleaking/uoj/master/web/public/pictures/UOJ.png"></p>
 
 本仓库存放了 UOJ 官网（ https://uoj.ac ）上的几道题目数据，供大家学习参考。
 
