@@ -1,0 +1,52 @@
+[
+    {
+        "name": "output1",
+        "type": "text",
+        "file_name": "lock1.out"
+    },
+    {
+        "name": "output2",
+        "type": "text",
+        "file_name": "lock2.out"
+    },
+    {
+        "name": "output3",
+        "type": "text",
+        "file_name": "lock3.out"
+    },
+    {
+        "name": "output4",
+        "type": "text",
+        "file_name": "lock4.out"
+    },
+    {
+        "name": "output5",
+        "type": "text",
+        "file_name": "lock5.out"
+    },
+    {
+        "name": "output6",
+        "type": "text",
+        "file_name": "lock6.out"
+    },
+    {
+        "name": "output7",
+        "type": "text",
+        "file_name": "lock7.out"
+    },
+    {
+        "name": "output8",
+        "type": "text",
+        "file_name": "lock8.out"
+    },
+    {
+        "name": "output9",
+        "type": "text",
+        "file_name": "lock9.out"
+    },
+    {
+        "name": "output10",
+        "type": "text",
+        "file_name": "lock10.out"
+    }
+]
